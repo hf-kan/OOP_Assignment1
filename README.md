@@ -1,4 +1,4 @@
-#Module 06-34153 (2021) Software Workshop 1
+#Software Workshop 1
 ##Assignment 1
 
 **Outline**
